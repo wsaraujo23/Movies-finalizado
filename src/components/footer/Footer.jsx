@@ -8,7 +8,7 @@ function Footer() {
 
 
     return (
-        <Foot >Direitos Autorais</Foot>
+        <Foot >Direitos Autorais..</Foot>
     )
 }
 
